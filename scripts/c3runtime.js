@@ -30439,8 +30439,8 @@ self.C3_JsPropNameTable = [{
             return () => and("SMER ukradol ", v0.GetValue() + " mil. €");
         },
         () => -300,
-        () => "Zdieľaj a pomôž babke utiecť pred Kiskom!",
         () => "https://www.facebook.com/zomriofficial/",
+        () => "Zdieľaj a pomôž Ficovi utiecť pred spravodlivosťou!",
         p => {
             const n0 = p._GetNode(0);
             return () => (n0.ExpObject() + 150);
